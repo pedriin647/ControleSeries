@@ -2,7 +2,7 @@
 
 > Status: Projeto Concluído ✔️
 
-### Este projeto é uma aplicação console, realizado durante um bootcamp para colocar em prática o conhecimento exercido.
+### Este projeto é uma aplicação console, realizado durante um bootcamp para colocar em prática o conhecimento aprendido.
 
 ## O controle de séries armazena os seguintes campos: 
 
